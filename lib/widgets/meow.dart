@@ -15,9 +15,9 @@ class Meow extends StatelessWidget {
             fit: BoxFit.cover,
           ),
         ),
-        child: Bottomstart(
+        child: null
 
-        ); /* add child content here */,
+         /* add child content here */,
       ),
     );
   }
